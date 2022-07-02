@@ -1,0 +1,93 @@
+CAMBIO DE NOMBRE DE PASAJERO:Nombre antiguo: Angels
+Nombre actual: SanAntonioParadise
+Rut del pasajero: 203453453
+Hora del cambio: 0:21
+--------------------------------------
+ELIMINACIÓN DE CUENTA DE PASAJERO:Nombre del pasajero: SanAntonioParadise
+Rut del pasajero: 203453453
+Hora de la eliminación: 0:29
+--------------------------------------
+CAMBIO DE NOMBRE DE CONDUCTOR:Nombre antiguo: Hernan
+Nombre actual: nanito
+Rut del conductor: 147894563
+Hora del cambio: 0:34
+--------------------------------------
+CAMBIO DE NOMBRE DE CONDUCTOR:Nombre antiguo: nanito
+Nombre actual: holaaaa
+Rut del conductor: 147894563
+Hora del cambio: 0:35
+--------------------------------------
+PETICIÓN DE TAXI
+
+Nombre del conductor: Rei
+Rut del conductor: 119878765
+
+Nombre del pasajero: mario
+Rut del pasajero: 118604744
+
+Hora de la petición: 19:53
+--------------------------------------
+PETICIÓN DE TAXI
+
+Nombre del conductor: Rei
+Rut del conductor: 119878765
+
+Nombre del pasajero: cristian
+Rut del pasajero: 206734221
+
+Hora de la petición: 18:32
+--------------------------------------
+PETICIÓN DE TAXI
+
+Nombre del conductor: Alonso
+Rut del conductor: 209473393
+
+Nombre del pasajero: cristian
+Rut del pasajero: 206734221
+
+Hora de la petición: 18:39
+--------------------------------------
+PETICIÓN DE TAXI
+
+Nombre del conductor: Samuel
+Rut del conductor: 166847389
+
+Nombre del pasajero: rene
+Rut del pasajero: 216652334
+
+Hora de la petición: 18:42
+--------------------------------------
+REPORTE DE PAGO:
+Nombre Cliente: rene
+Rut Cliente: 216652334
+
+Ha pagado la suma de 2000 al conductor:
+
+Nombre Conductor: Samuel
+Rut Conductor: 166847389
+
+Hora de la transacción: 18:44
+
+--------------------------------------
+PETICIÓN DE TAXI
+
+Nombre del conductor: Alberto
+Rut del conductor: 135395288
+
+Nombre del pasajero: Angel
+Rut del pasajero: 203453455
+
+Hora de la petición: 21:37
+--------------------------------------
+REPORTE DE PAGO:
+Nombre Cliente: Angel
+Rut Cliente: 203453455
+
+Ha pagado la suma de 2000 al conductor:
+
+Nombre Conductor: Alberto
+Rut Conductor: 135395288
+
+Hora de la transacción: 21:48
+
+--------------------------------------

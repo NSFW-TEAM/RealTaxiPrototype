@@ -3,7 +3,7 @@ Prototipo funcional en un 50% del proyecto RealTaxi de Ingeniería de Software
 
 
 Requisitos:
-Netbeans/Eclipse con JAVA 8 con JVM instalada.
+Netbeans con JAVA 8 con JVM instalada.
 
 Uso:
 Ejecutar main.java para iniciar la aplicacion.
